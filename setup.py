@@ -18,7 +18,7 @@ DESCRIPTION = "Decompiler at the heart of Eveem.org https://www.eveem.org/"
 URL = "https://github.com/palkeo/panoramix"
 AUTHOR = "Tomasz Kolinko / palkeo"
 AUTHOR_EMAIL = "panoramix@palkeo.com"
-REQUIRES_PYTHON = ">3.8.0"
+REQUIRES_PYTHON = ">3.7.9"
 
 
 # What packages are required for this module to be executed?
